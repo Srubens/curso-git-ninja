@@ -5,3 +5,7 @@ body{
 	font-size: 14px;
 	color: #333;
 }
+
+div{
+	border: 1px solid #333;
+}
