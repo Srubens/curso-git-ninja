@@ -17,5 +17,16 @@ git diff --staged
 
 git log --name-status TRAS O NOME DO ARQUIVO QUE FORAM ALTERADOS
 
+7 os primeiro caracter são importantes para nós
+
+com o diff podemos ver como estava os arquivos e como estão atualmente usando 
+
+//primeiros commits mais antigo e depois o mais atual espaço entre eles
+git diff a0ef3a0 ab762b3
+
 
 GIT LOG PARA SABER AS ALTERAÇÕES FEIRAS POR QUEM FOI FEITAS E DATA E EMAIL
+
+deletando um arquivo
+
+git rm remove o arquivo da arvore do git 
