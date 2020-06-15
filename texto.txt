@@ -30,3 +30,7 @@ GIT LOG PARA SABER AS ALTERAÇÕES FEIRAS POR QUEM FOI FEITAS E DATA E EMAIL
 deletando um arquivo
 
 git rm remove o arquivo da arvore do git 
+
+forçando a remoção git -r -f nome da pasta
+outra forma de remoção git -rf nome da pasta --cached 
+outra forma de remoção git rm nome do arquivo --cached 
